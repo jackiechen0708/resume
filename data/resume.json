@@ -1,21 +1,21 @@
 {
-    "avatar": "/resume/data/1.jpg",
+    "avatar": "/resume/data/16210720179.jpg",
     "background_image": "https://9to5mac.files.wordpress.com/2014/08/yosemite-3.jpg?w=1200&h=&crop=1",
     "basicinfo": {
-        "name": "唐杰英",
-        "description": "岂能尽如人意，但求无愧我心",
-        "school": "五邑大学",
+        "name": "陈良",
+        "description": "Pursue a better self",
+        "school": "复旦大学",
         "profession": "计算机科学与技术",
         "sex": "男",
-        "education" : "本科",
-        "workage": "2016届毕业",
-        "phone": "15088132354",
-        "email": "tonjayin@gmail.com"
+        "education" : "研究生",
+        "workage": "2018届毕业",
+        "phone": "18818265746",
+        "email": "jackieche0708@gmail.com"
     },
     "social":[
         {
             "type": "github",
-            "link": "https://github.com/Jayin",
+            "link": "https://github.com/jackiechen0708",
             "icon": ""
         },
         {
